@@ -1,0 +1,1110 @@
+﻿Log file open, 01/13/20 13:35:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.415758
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/GAMES/EpicGames/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.01.13-21.35.55:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.13-21.35.55:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.01.13-21.35.55:406][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.13-21.35.55:407][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.01.13-21.35.55:407][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.01.13-21.35.55:414][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:414][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.13-21.35.55:414][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.13-21.35.55:414][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:414][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.13-21.35.55:414][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:414][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.13-21.35.55:414][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.13-21.35.55:414][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.13-21.35.55:414][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.13-21.35.55:414][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.13-21.35.55:414][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.13-21.35.55:414][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.13-21.35.55:415][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.13-21.35.55:416][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.13-21.35.55:417][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.13-21.35.55:418][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.13-21.35.55:418][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.13-21.35.55:418][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.13-21.35.55:418][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.13-21.35.55:418][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.13-21.35.55:418][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:418][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.13-21.35.55:418][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.13-21.35.55:418][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.13-21.35.55:418][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.13-21.35.55:462][  0]LogHAL: Display: Platform has ~ 16 GB [17047015424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.13-21.35.55:462][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.13-21.35.55:462][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.13-21.35.55:462][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:462][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.13-21.35.55:462][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.13-21.35.55:462][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:462][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.13-21.35.55:462][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.13-21.35.55:463][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.13-21.35.55:464][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.13-21.35.55:465][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.13-21.35.55:466][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.13-21.35.55:467][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.13-21.35.55:467][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.13-21.35.55:467][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.01.13-21.35.55:468][  0]LogInit: Computer: DESKTOP-LRB67A9
+[2020.01.13-21.35.55:468][  0]LogInit: User: Admin
+[2020.01.13-21.35.55:468][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.01.13-21.35.55:468][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.13-21.35.55:469][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.13-21.35.55:469][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.13-21.35.55:469][  0]LogMemory: Process Physical Memory: 96.83 MB used, 96.83 MB peak
+[2020.01.13-21.35.55:469][  0]LogMemory: Process Virtual Memory: 89.73 MB used, 89.73 MB peak
+[2020.01.13-21.35.55:469][  0]LogMemory: Physical Memory: 4818.73 MB used,  11438.57 MB free, 16257.30 MB total
+[2020.01.13-21.35.55:469][  0]LogMemory: Virtual Memory: 4660.46 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.01.13-21.35.55:523][  0]LogInit: Using OS detected language (en-US).
+[2020.01.13-21.35.55:523][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.13-21.35.55:525][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.13-21.35.55:699][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.13-21.35.55:729][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.13-21.35.55:729][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.13-21.35.55:976][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.13-21.35.55:976][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.13-21.35.56:044][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.01.13-21.35.56:044][  0]LogD3D11RHI:       6052/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.13-21.35.56:071][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.01.13-21.35.56:071][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.13-21.35.56:074][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.13-21.35.56:074][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.13-21.35.56:074][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.13-21.35.56:112][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.13-21.35.56:112][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.13-21.35.56:112][  0]LogWindows: EnumDisplayDevices:
+[2020.01.13-21.35.56:112][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.01.13-21.35.56:113][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.13-21.35.56:113][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.13-21.35.56:113][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.01.13-21.35.56:113][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.01.13-21.35.56:114][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.01.13-21.35.56:114][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.01.13-21.35.56:114][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.01.13-21.35.56:114][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.01.13-21.35.56:114][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2020.01.13-21.35.56:114][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2020.01.13-21.35.56:114][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.01.13-21.35.56:162][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.13-21.35.56:166][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.13-21.35.56:166][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.13-21.35.56:166][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.13-21.35.56:180][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.01.13-21.35.56:471][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.13-21.35.56:484][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.13-21.35.56:498][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.13-21.35.56:512][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.13-21.35.56:525][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.13-21.35.56:537][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.13-21.35.56:550][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.13-21.35.56:563][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.13-21.35.56:568][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.13-21.35.56:647][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.13-21.35.56:648][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.13-21.35.56:698][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.13-21.35.56:698][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.13-21.35.56:724][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.13-21.35.56:724][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.13-21.35.56:737][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.13-21.35.56:750][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.13-21.35.56:762][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.13-21.35.56:775][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.13-21.35.56:820][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.13-21.35.56:820][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.13-21.35.56:820][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.13-21.35.56:827][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.13-21.35.56:865][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (C:/Users/Admin/Documents/Unreal Projects/MyProject/Intermediate/Shaders/WorkingDirectory/1740/).
+[2020.01.13-21.35.56:865][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/33404CAE47B361E08B7F978D15B5826A/'.
+[2020.01.13-21.35.56:867][  0]LogXGEController: Cleaning working directory: C:/Users/Admin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.13-21.35.56:867][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.13-21.35.56:867][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.13-21.35.56:867][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.13-21.35.57:434][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.13-21.35.57:483][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Admin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.13-21.35.57:484][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Admin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.13-21.35.57:484][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Admin/Documents/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.13-21.35.57:484][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.13-21.35.57:484][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Admin/Documents/Unreal Projects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.13-21.35.57:484][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.13-21.35.57:498][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.13-21.35.57:498][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.13-21.35.57:498][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.13-21.35.57:510][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.13-21.35.57:510][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.13-21.35.57:510][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.13-21.35.57:534][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.13-21.35.57:535][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.13-21.35.57:536][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.13-21.35.57:632][  0]LogAssetRegistry: FAssetRegistry took 0.0334 seconds to start up
+[2020.01.13-21.35.57:957][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.13-21.35.58:087][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.13-21.35.58:088][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.13-21.35.58:088][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.13-21.35.58:088][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.13-21.35.58:088][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.13-21.35.58:104][  0]LogNetVersion: MyProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2788865488)
+[2020.01.13-21.35.58:517][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.037741 seconds
+[2020.01.13-21.35.58:523][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.13-21.35.58:523][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.13-21.35.58:523][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.13-21.35.59:404][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.13-21.35.59:417][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.13-21.35.59:522][  0]SourceControl: Source control is disabled
+[2020.01.13-21.35.59:522][  0]SourceControl: Source control is disabled
+[2020.01.13-21.35.59:524][  0]SourceControl: Source control is disabled
+[2020.01.13-21.35.59:524][  0]SourceControl: Source control is disabled
+[2020.01.13-21.35.59:533][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.13-21.35.59:533][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.13-21.35.59:598][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.13-21.35.59:679][  0]LogOcInput: OculusInput pre-init called
+[2020.01.13-21.36.00:545][  0]LogEngine: Initializing Engine...
+[2020.01.13-21.36.00:546][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.13-21.36.00:548][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.13-21.36.00:783][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.13-21.36.00:794][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.13-21.36.00:808][  0]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.13-21.36.02:318][  0]LogInit: FAudioDevice initialized.
+[2020.01.13-21.36.02:319][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.13-21.36.02:437][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/Admin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.13-21.36.02:460][  0]LogInit: Texture streaming: Enabled
+[2020.01.13-21.36.02:497][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.13-21.36.02:518][  0]LogInit: Transaction tracking system initialized
+[2020.01.13-21.36.02:535][  0]BlueprintLog: New page: Editor Load
+[2020.01.13-21.36.02:600][  0]LocalizationService: Localization service is disabled
+[2020.01.13-21.36.02:734][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.13-21.36.02:735][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.13-21.36.02:914][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/' took 0.01s
+[2020.01.13-21.36.02:914][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.13-21.36.02:914][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.13-21.36.03:078][  0]SourceControl: Source control is disabled
+[2020.01.13-21.36.03:078][  0]Cmd: MAP LOAD FILE="C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.13-21.36.03:079][  0]LightingResults: New page: Lighting Build
+[2020.01.13-21.36.03:081][  0]MapCheck: New page: Map Check
+[2020.01.13-21.36.03:081][  0]LightingResults: New page: Lighting Build
+[2020.01.13-21.36.03:114][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.01.13-21.36.03:358][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.13-21.36.03:375][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.13-21.36.03:408][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.01.13-21.36.03:408][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.13-21.36.03:408][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2020.01.13-21.36.03:408][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.330
+[2020.01.13-21.36.03:517][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.36.03:527][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.36.03:535][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.36.03:544][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.36.03:549][  0]LogCollectionManager: Loaded 0 collections in 0.001279 seconds
+[2020.01.13-21.36.03:563][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Collections/' took 0.01s
+[2020.01.13-21.36.03:563][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/Developers/Admin/Collections/' took 0.00s
+[2020.01.13-21.36.03:563][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/Collections/' took 0.00s
+[2020.01.13-21.36.03:563][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.13-21.36.03:572][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2732 classes and 659 folders.
+[2020.01.13-21.36.03:577][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.13-21.36.03:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-21.36.03:635][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.13-21.36.03:639][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.13-21.36.03:655][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.13-21.36.03:658][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.13-21.36.03:663][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.13-21.36.03:727][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2020.01.13-21.36.03:857][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.13-21.36.03:857][  0]LogLoad: (Engine Initialization) Total time: 10.69 seconds
+[2020.01.13-21.36.03:857][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.13-21.36.03:902][  0]LogAssetRegistry: Asset discovery search completed in 6.2919 seconds
+[2020.01.13-21.36.03:904][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.13-21.36.03:904][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2020.01.13-21.36.03:906][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.13-21.36.03:925][  0]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.13-21.36.06:396][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.36.09:226][151]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.13-21.36.09:249][151]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Admin/Documents/maya/AFA_Projects/Ossum_Project/scenes/Ossum_IDLE.fbx)
+[2020.01.13-21.36.09:264][151]LogFbx: Loading FBX Scene from C:/Users/Admin/Documents/maya/AFA_Projects/Ossum_Project/scenes/Ossum_IDLE.fbx
+[2020.01.13-21.36.09:292][151]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.13-21.36.12:963][151]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2020.01.13-21.36.33:576][151]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.13-21.36.33:697][151]LogFbx: =================================================
+[2020.01.13-21.36.33:698][151]LogFbx: Dumping Node START [Ossum_Body1] 
+[2020.01.13-21.36.33:698][151]LogFbx: 	Total Deformer Count -990234048.
+[2020.01.13-21.36.33:698][151]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.13-21.36.33:698][151]LogFbx: =================================================
+[2020.01.13-21.36.33:698][151]LogFbx: 	Attribute () Type (4).
+[2020.01.13-21.36.33:698][151]LogFbx: 		[Node Attribute Child 1] Ossum_Body1 (Type Mesh).
+[2020.01.13-21.36.33:698][151]LogFbx: Dumping Node END [Ossum_Body1]
+[2020.01.13-21.36.33:698][151]LogFbx: =================================================
+[2020.01.13-21.36.33:698][151]LogFbx: Dumping Node START [Ossum_Body1] 
+[2020.01.13-21.36.33:698][151]LogFbx: 	Total Deformer Count -990234048.
+[2020.01.13-21.36.33:699][151]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.13-21.36.33:699][151]LogFbx: =================================================
+[2020.01.13-21.36.33:699][151]LogFbx: 	Attribute () Type (4).
+[2020.01.13-21.36.33:699][151]LogFbx: 		[Node Attribute Child 1] Ossum_Body1 (Type Mesh).
+[2020.01.13-21.36.33:699][151]LogFbx: Dumping Node END [Ossum_Body1]
+[2020.01.13-21.36.33:703][151]LogFbx: Valid bind pose for Pose (skinCluster1) - Ossum_Body1
+[2020.01.13-21.36.33:892][151]LogMaterial: Warning: Material /Game/ThirdPersonBP/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.13-21.36.33:895][151]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.01.13-21.36.33:968][151]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.13-21.36.33:968][151]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.13-21.36.33:968][151]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.13-21.36.33:968][151]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.13-21.36.33:968][151]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.13-21.36.33:968][151]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.13-21.36.33:972][151]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.01.13-21.36.34:005][151]LogFbx: Triangulating skeletal mesh Ossum_Body1
+[2020.01.13-21.36.34:317][151]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.13-21.36.34:317][151]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.13-21.36.34:317][151]LogFbx: Warning: Bones digested - 35  Depth of hierarchy - 8
+[2020.01.13-21.36.34:519][151]LogSkeletalMesh: Section 0: 3020 vertices, 35 active bones
+[2020.01.13-21.36.34:520][151]LogSkeletalMesh: Section 0: Material=0, 4880 triangles
+[2020.01.13-21.36.34:522][151]LogSkeletalMesh: Building Skeletal Mesh Ossum_IDLE...
+[2020.01.13-21.36.34:536][151]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Ossum_IDLE.Ossum_IDLE
+[2020.01.13-21.36.34:537][151]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_IDLE_Skeleton'
+[2020.01.13-21.36.34:538][151]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_IDLE_Skeleton'
+[2020.01.13-21.36.34:541][151]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_IDLE_PhysicsAsset'
+[2020.01.13-21.36.34:541][151]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_IDLE_PhysicsAsset'
+[2020.01.13-21.36.34:553][151]LogFbx: =================================================
+[2020.01.13-21.36.34:553][151]LogFbx: Dumping Node START [Ossum_Body1] 
+[2020.01.13-21.36.34:553][151]LogFbx: 	Total Deformer Count -967573696.
+[2020.01.13-21.36.34:553][151]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.13-21.36.34:553][151]LogFbx: =================================================
+[2020.01.13-21.36.34:553][151]LogFbx: 	Attribute () Type (4).
+[2020.01.13-21.36.34:553][151]LogFbx: 		[Node Attribute Child 1] Ossum_Body1 (Type Mesh).
+[2020.01.13-21.36.34:553][151]LogFbx: Dumping Node END [Ossum_Body1]
+[2020.01.13-21.36.34:554][151]LogFbx: =================================================
+[2020.01.13-21.36.34:554][151]LogFbx: Dumping Node START [Ossum_Body1] 
+[2020.01.13-21.36.34:554][151]LogFbx: 	Total Deformer Count -967573696.
+[2020.01.13-21.36.34:554][151]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.13-21.36.34:554][151]LogFbx: =================================================
+[2020.01.13-21.36.34:554][151]LogFbx: 	Attribute () Type (4).
+[2020.01.13-21.36.34:554][151]LogFbx: 		[Node Attribute Child 1] Ossum_Body1 (Type Mesh).
+[2020.01.13-21.36.34:554][151]LogFbx: Dumping Node END [Ossum_Body1]
+[2020.01.13-21.36.34:555][151]LogFbx: SortedLinks :(0) Root01_jnt1
+[2020.01.13-21.36.34:555][151]LogFbx: SortedLinks :(1) Root2_jnt
+[2020.01.13-21.36.34:555][151]LogFbx: SortedLinks :(2) Root3_jnt
+[2020.01.13-21.36.34:555][151]LogFbx: SortedLinks :(3) L_Shulder_jnt
+[2020.01.13-21.36.34:555][151]LogFbx: SortedLinks :(4) L_elbow_jnt
+[2020.01.13-21.36.34:555][151]LogFbx: SortedLinks :(5) L_Wrsit_jnt
+[2020.01.13-21.36.34:555][151]LogFbx: SortedLinks :(6) L_Fingertips_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(7) R_Shulder_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(8) R_Elbow_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(9) R_Wrist_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(10) R_Fingertips_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(11) Head_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(12) muzzle_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(13) nose_nt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(14) R_eye_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(15) L_eye_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(16) R_eyebrow_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(17) L_eyebrow_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(18) R_ear_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(19) L_ear_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(20) L_Hip_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(21) L_knee_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(22) L_foot_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(23) L_Toe_int
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(24) R_hip_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(25) R_knee_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(26) R_foot_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(27) R_toe_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(28) Tail1_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(29) Tail2_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(30) Tail3_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(31) Tail4_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(32) Tail5_jnt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(33) Tail6_knt
+[2020.01.13-21.36.34:556][151]LogFbx: SortedLinks :(34) Tail7_jnt
+[2020.01.13-21.36.34:558][151]LogFbx: Parsing AnimStack Take 001
+[2020.01.13-21.36.34:559][151]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_IDLE_Anim'
+[2020.01.13-21.36.34:559][151]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_IDLE_Anim'
+[2020.01.13-21.36.34:788][151]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ossum_IDLE_Anim.Ossum_IDLE_Anim
+[2020.01.13-21.36.34:789][151]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Ossum_IDLE_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.13-21.36.34:797][151]LogSkeletalMesh: Building Skeletal Mesh Ossum_IDLE...
+[2020.01.13-21.36.34:809][151]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Ossum_IDLE.Ossum_IDLE
+[2020.01.13-21.36.34:822][151]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.13-21.36.34:834][151]LogSkeletalMesh: Building Skeletal Mesh Ossum_IDLE...
+[2020.01.13-21.36.34:844][151]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Ossum_IDLE.Ossum_IDLE
+[2020.01.13-21.36.36:555][240]LogSlate: Window 'Message Log' being destroyed
+[2020.01.13-21.36.36:559][240]LogSlate: Window 'Message Log' being destroyed
+[2020.01.13-21.36.37:283][284]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.13-21.36.37:434][293]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.13-21.36.37:616][304]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.13-21.36.37:748][312]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.13-21.36.39:262][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.36.47:413][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.36.49:409][886]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Admin/Documents/maya/AFA_Projects/Ossum_Project/scenes/Ossum_JUMP.fbx)
+[2020.01.13-21.36.49:420][886]LogFbx: Loading FBX Scene from C:/Users/Admin/Documents/maya/AFA_Projects/Ossum_Project/scenes/Ossum_JUMP.fbx
+[2020.01.13-21.36.49:449][886]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.13-21.36.53:186][886]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.13-21.36.53:308][886]LogFbx: =================================================
+[2020.01.13-21.36.53:308][886]LogFbx: Dumping Node START [Ossum_Body1] 
+[2020.01.13-21.36.53:308][886]LogFbx: 	Total Deformer Count -23400512.
+[2020.01.13-21.36.53:308][886]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.13-21.36.53:308][886]LogFbx: =================================================
+[2020.01.13-21.36.53:308][886]LogFbx: 	Attribute () Type (4).
+[2020.01.13-21.36.53:308][886]LogFbx: 		[Node Attribute Child 1] Ossum_Body1 (Type Mesh).
+[2020.01.13-21.36.53:308][886]LogFbx: Dumping Node END [Ossum_Body1]
+[2020.01.13-21.36.53:309][886]LogFbx: =================================================
+[2020.01.13-21.36.53:309][886]LogFbx: Dumping Node START [Ossum_Body1] 
+[2020.01.13-21.36.53:309][886]LogFbx: 	Total Deformer Count -23400512.
+[2020.01.13-21.36.53:309][886]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.13-21.36.53:309][886]LogFbx: =================================================
+[2020.01.13-21.36.53:309][886]LogFbx: 	Attribute () Type (4).
+[2020.01.13-21.36.53:309][886]LogFbx: 		[Node Attribute Child 1] Ossum_Body1 (Type Mesh).
+[2020.01.13-21.36.53:309][886]LogFbx: Dumping Node END [Ossum_Body1]
+[2020.01.13-21.36.53:313][886]LogFbx: Valid bind pose for Pose (skinCluster1) - Ossum_Body1
+[2020.01.13-21.36.53:320][886]LogFbx: Triangulating skeletal mesh Ossum_Body1
+[2020.01.13-21.36.53:605][886]LogFbx: Warning: Bones digested - 35  Depth of hierarchy - 8
+[2020.01.13-21.36.53:707][886]LogSkeletalMesh: Section 0: 3020 vertices, 35 active bones
+[2020.01.13-21.36.53:708][886]LogSkeletalMesh: Section 0: Material=0, 4880 triangles
+[2020.01.13-21.36.53:710][886]LogSkeletalMesh: Building Skeletal Mesh Ossum_JUMP...
+[2020.01.13-21.36.53:714][886]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Ossum_JUMP.Ossum_JUMP
+[2020.01.13-21.36.53:716][886]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_JUMP_PhysicsAsset'
+[2020.01.13-21.36.53:716][886]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_JUMP_PhysicsAsset'
+[2020.01.13-21.36.53:726][886]LogFbx: =================================================
+[2020.01.13-21.36.53:726][886]LogFbx: Dumping Node START [Ossum_Body1] 
+[2020.01.13-21.36.53:726][886]LogFbx: 	Total Deformer Count -23396608.
+[2020.01.13-21.36.53:726][886]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.13-21.36.53:726][886]LogFbx: =================================================
+[2020.01.13-21.36.53:726][886]LogFbx: 	Attribute () Type (4).
+[2020.01.13-21.36.53:726][886]LogFbx: 		[Node Attribute Child 1] Ossum_Body1 (Type Mesh).
+[2020.01.13-21.36.53:726][886]LogFbx: Dumping Node END [Ossum_Body1]
+[2020.01.13-21.36.53:726][886]LogFbx: =================================================
+[2020.01.13-21.36.53:726][886]LogFbx: Dumping Node START [Ossum_Body1] 
+[2020.01.13-21.36.53:726][886]LogFbx: 	Total Deformer Count -23396608.
+[2020.01.13-21.36.53:726][886]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.13-21.36.53:726][886]LogFbx: =================================================
+[2020.01.13-21.36.53:726][886]LogFbx: 	Attribute () Type (4).
+[2020.01.13-21.36.53:726][886]LogFbx: 		[Node Attribute Child 1] Ossum_Body1 (Type Mesh).
+[2020.01.13-21.36.53:726][886]LogFbx: Dumping Node END [Ossum_Body1]
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(0) Root01_jnt1
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(1) Root2_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(2) Root3_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(3) L_Shulder_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(4) L_elbow_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(5) L_Wrsit_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(6) L_Fingertips_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(7) R_Shulder_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(8) R_Elbow_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(9) R_Wrist_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(10) R_Fingertips_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(11) Head_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(12) muzzle_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(13) nose_nt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(14) R_eye_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(15) L_eye_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(16) R_eyebrow_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(17) L_eyebrow_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(18) R_ear_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(19) L_ear_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(20) L_Hip_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(21) L_knee_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(22) L_foot_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(23) L_Toe_int
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(24) R_hip_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(25) R_knee_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(26) R_foot_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(27) R_toe_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(28) Tail1_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(29) Tail2_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(30) Tail3_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(31) Tail4_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(32) Tail5_jnt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(33) Tail6_knt
+[2020.01.13-21.36.53:727][886]LogFbx: SortedLinks :(34) Tail7_jnt
+[2020.01.13-21.36.53:728][886]LogFbx: Parsing AnimStack Take 001
+[2020.01.13-21.36.53:729][886]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_JUMP_Anim'
+[2020.01.13-21.36.53:729][886]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_JUMP_Anim'
+[2020.01.13-21.36.53:811][886]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ossum_JUMP_Anim.Ossum_JUMP_Anim
+[2020.01.13-21.36.53:811][886]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Ossum_JUMP_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.13-21.36.53:815][886]LogSkeletalMesh: Building Skeletal Mesh Ossum_JUMP...
+[2020.01.13-21.36.53:820][886]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Ossum_JUMP.Ossum_JUMP
+[2020.01.13-21.36.53:827][886]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.13-21.36.53:837][886]LogSkeletalMesh: Building Skeletal Mesh Ossum_JUMP...
+[2020.01.13-21.36.53:841][886]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Ossum_JUMP.Ossum_JUMP
+[2020.01.13-21.36.55:776][  1]LogSlate: Window 'Message Log' being destroyed
+[2020.01.13-21.36.55:783][  1]LogSlate: Window 'Message Log' being destroyed
+[2020.01.13-21.36.58:233][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.37.04:686][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.37.06:626][514]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Admin/Documents/maya/AFA_Projects/Ossum_Project/scenes/Ossum_RUN.fbx)
+[2020.01.13-21.37.06:637][514]LogFbx: Loading FBX Scene from C:/Users/Admin/Documents/maya/AFA_Projects/Ossum_Project/scenes/Ossum_RUN.fbx
+[2020.01.13-21.37.06:665][514]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.13-21.37.08:469][514]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.13-21.37.08:590][514]LogFbx: =================================================
+[2020.01.13-21.37.08:590][514]LogFbx: Dumping Node START [Ossum_Body1] 
+[2020.01.13-21.37.08:590][514]LogFbx: 	Total Deformer Count -733287360.
+[2020.01.13-21.37.08:590][514]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.13-21.37.08:590][514]LogFbx: =================================================
+[2020.01.13-21.37.08:590][514]LogFbx: 	Attribute () Type (4).
+[2020.01.13-21.37.08:590][514]LogFbx: 		[Node Attribute Child 1] Ossum_Body1 (Type Mesh).
+[2020.01.13-21.37.08:590][514]LogFbx: Dumping Node END [Ossum_Body1]
+[2020.01.13-21.37.08:591][514]LogFbx: =================================================
+[2020.01.13-21.37.08:591][514]LogFbx: Dumping Node START [Ossum_Body1] 
+[2020.01.13-21.37.08:591][514]LogFbx: 	Total Deformer Count -733287360.
+[2020.01.13-21.37.08:591][514]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.13-21.37.08:591][514]LogFbx: =================================================
+[2020.01.13-21.37.08:591][514]LogFbx: 	Attribute () Type (4).
+[2020.01.13-21.37.08:591][514]LogFbx: 		[Node Attribute Child 1] Ossum_Body1 (Type Mesh).
+[2020.01.13-21.37.08:591][514]LogFbx: Dumping Node END [Ossum_Body1]
+[2020.01.13-21.37.08:595][514]LogFbx: Valid bind pose for Pose (skinCluster1) - Ossum_Body1
+[2020.01.13-21.37.08:601][514]LogFbx: Triangulating skeletal mesh Ossum_Body1
+[2020.01.13-21.37.08:837][514]LogFbx: Warning: Bones digested - 35  Depth of hierarchy - 8
+[2020.01.13-21.37.08:942][514]LogSkeletalMesh: Section 0: 3020 vertices, 35 active bones
+[2020.01.13-21.37.08:942][514]LogSkeletalMesh: Section 0: Material=0, 4880 triangles
+[2020.01.13-21.37.08:944][514]LogSkeletalMesh: Building Skeletal Mesh Ossum_RUN...
+[2020.01.13-21.37.08:948][514]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Ossum_RUN.Ossum_RUN
+[2020.01.13-21.37.08:950][514]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_RUN_PhysicsAsset'
+[2020.01.13-21.37.08:950][514]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_RUN_PhysicsAsset'
+[2020.01.13-21.37.08:958][514]LogFbx: =================================================
+[2020.01.13-21.37.08:958][514]LogFbx: Dumping Node START [Ossum_Body1] 
+[2020.01.13-21.37.08:958][514]LogFbx: 	Total Deformer Count -739664512.
+[2020.01.13-21.37.08:958][514]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.13-21.37.08:958][514]LogFbx: =================================================
+[2020.01.13-21.37.08:958][514]LogFbx: 	Attribute () Type (4).
+[2020.01.13-21.37.08:958][514]LogFbx: 		[Node Attribute Child 1] Ossum_Body1 (Type Mesh).
+[2020.01.13-21.37.08:958][514]LogFbx: Dumping Node END [Ossum_Body1]
+[2020.01.13-21.37.08:958][514]LogFbx: =================================================
+[2020.01.13-21.37.08:958][514]LogFbx: Dumping Node START [Ossum_Body1] 
+[2020.01.13-21.37.08:958][514]LogFbx: 	Total Deformer Count -739664512.
+[2020.01.13-21.37.08:958][514]LogFbx: 		[Node 1]  (Type Skin).
+[2020.01.13-21.37.08:959][514]LogFbx: =================================================
+[2020.01.13-21.37.08:959][514]LogFbx: 	Attribute () Type (4).
+[2020.01.13-21.37.08:959][514]LogFbx: 		[Node Attribute Child 1] Ossum_Body1 (Type Mesh).
+[2020.01.13-21.37.08:959][514]LogFbx: Dumping Node END [Ossum_Body1]
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(0) Root01_jnt1
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(1) Root2_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(2) Root3_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(3) L_Shulder_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(4) L_elbow_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(5) L_Wrsit_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(6) L_Fingertips_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(7) R_Shulder_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(8) R_Elbow_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(9) R_Wrist_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(10) R_Fingertips_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(11) Head_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(12) muzzle_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(13) nose_nt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(14) R_eye_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(15) L_eye_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(16) R_eyebrow_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(17) L_eyebrow_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(18) R_ear_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(19) L_ear_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(20) L_Hip_jnt
+[2020.01.13-21.37.08:959][514]LogFbx: SortedLinks :(21) L_knee_jnt
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(22) L_foot_jnt
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(23) L_Toe_int
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(24) R_hip_jnt
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(25) R_knee_jnt
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(26) R_foot_jnt
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(27) R_toe_jnt
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(28) Tail1_jnt
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(29) Tail2_jnt
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(30) Tail3_jnt
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(31) Tail4_jnt
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(32) Tail5_jnt
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(33) Tail6_knt
+[2020.01.13-21.37.08:960][514]LogFbx: SortedLinks :(34) Tail7_jnt
+[2020.01.13-21.37.08:960][514]LogFbx: Parsing AnimStack Take 001
+[2020.01.13-21.37.08:961][514]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_RUN_Anim'
+[2020.01.13-21.37.08:961][514]LogLinker: Can't find file '/Game/ThirdPersonBP/Ossum_RUN_Anim'
+[2020.01.13-21.37.09:028][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ossum_RUN_Anim.Ossum_RUN_Anim
+[2020.01.13-21.37.09:028][514]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Ossum_RUN_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.13-21.37.09:034][514]LogSkeletalMesh: Building Skeletal Mesh Ossum_RUN...
+[2020.01.13-21.37.09:038][514]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Ossum_RUN.Ossum_RUN
+[2020.01.13-21.37.09:044][514]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.13-21.37.09:056][514]LogSkeletalMesh: Building Skeletal Mesh Ossum_RUN...
+[2020.01.13-21.37.09:060][514]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Ossum_RUN.Ossum_RUN
+[2020.01.13-21.37.11:320][648]LogSlate: Window 'Message Log' being destroyed
+[2020.01.13-21.37.11:327][648]LogSlate: Window 'Message Log' being destroyed
+[2020.01.13-21.37.15:489][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.37.15:956][923]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.13-21.37.15:971][923]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.37.15:971][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.13-21.37.15:971][923]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2020, 5:37:15 AM)
+[2020.01.13-21.37.15:983][923]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.13-21.37.15:997][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014149s)
+[2020.01.13-21.37.15:998][923]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.13-21.37.15:998][923]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2020.01.13-21.37.15:998][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015375s)
+[2020.01.13-21.37.16:029][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.01.13-21.37.16:036][923]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.13-21.37.16:053][923]LogInit: FAudioDevice initialized.
+[2020.01.13-21.37.16:100][923]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.13-21.37.16:106][923]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.13-13.37.16
+[2020.01.13-21.37.16:106][923]LogWorld: Bringing up level for play took: 0.003929
+[2020.01.13-21.37.16:125][923]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.01.13-21.37.16:126][923]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.032
+[2020.01.13-21.37.16:126][923]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.37.19:632][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.37.19:632][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.37.19:669][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.13-21.37.19:670][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.37.19:752][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.37.19:756][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.01.13-21.37.19:773][133]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.01.13-21.37.21:079][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.37.21:230][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.13-21.37.21:367][216]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/ThirdPersonExampleMap697A931F41FE4F06E78071B908C236D1.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.13-21.37.21:545][216]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/ThirdPersonExampleMap_BuiltData8D688F1B46A55518CE2102A761A96740.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.13-21.37.30:858][774]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/Ossum_IDLE_Anim.Ossum_IDLE_Anim
+[2020.01.13-21.37.30:865][774]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.13-21.37.31:068][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.13-21.37.31:070][774]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.01.13-21.37.31:094][774]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.13-21.37.31:386][774]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.13-21.37.35:843][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.37.35:943][ 47]LogSlate: Window 'Ossum_IDLE_Anim' being destroyed
+[2020.01.13-21.37.35:950][ 47]LogSlate: Window 'Ossum_IDLE_Anim' being destroyed
+[2020.01.13-21.37.39:741][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.37.39:825][259]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.13-21.37.39:848][259]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.37.39:848][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.13-21.37.39:848][259]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2020, 5:37:39 AM)
+[2020.01.13-21.37.39:848][259]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.13-21.37.39:870][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021592s)
+[2020.01.13-21.37.39:871][259]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.13-21.37.39:871][259]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2020.01.13-21.37.39:871][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022935s)
+[2020.01.13-21.37.39:916][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.01.13-21.37.39:921][259]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.13-21.37.39:938][259]LogInit: FAudioDevice initialized.
+[2020.01.13-21.37.39:968][259]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.13-21.37.39:972][259]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.13-13.37.39
+[2020.01.13-21.37.39:973][259]LogWorld: Bringing up level for play took: 0.003202
+[2020.01.13-21.37.39:985][259]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.172
+[2020.01.13-21.37.39:985][259]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.38.00:232][470]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.38.00:232][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.38.00:270][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.13-21.38.00:271][470]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.38.00:356][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.38.00:362][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.01.13-21.38.00:387][471]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.13-21.38.02:730][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.38.16:908][203]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.13-21.38.24:496][653]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/MtCharacter.MtCharacter
+[2020.01.13-21.38.24:747][653]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.01.13-21.38.25:588][653]LogRenderer: Reallocating scene render targets to support 964x540 Format 10 NumSamples 1 (Frame:1).
+[2020.01.13-21.38.28:072][802]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.13-21.38.34:775][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.38.48:205][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.38.48:306][  9]LogSlate: Window 'MtCharacter' being destroyed
+[2020.01.13-21.38.48:314][  9]LogSlate: Window 'MtCharacter' being destroyed
+[2020.01.13-21.38.52:332][244]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.01.13-21.38.53:669][244]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.13-21.38.53:796][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.01.13-21.38.54:708][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.01.13-21.38.54:885][296]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/ThirdPersonExampleMapE10FFCCD4FDA874870901194CE98C637.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.13-21.38.55:011][296]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/ThirdPersonExampleMap_BuiltData87B8E0814B848D1EB8EB948E7AE300B2.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.13-21.45.59:986][408]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.01.13-21.46.03:357][590]LogSlate: Window 'CompilerResults' being destroyed
+[2020.01.13-21.46.03:360][590]LogSlate: Window 'CompilerResults' being destroyed
+[2020.01.13-21.46.03:360][590]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.01.13-21.46.03:364][590]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.01.13-21.50.24:024][843]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.13-21.50.24:102][844]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.13-21.50.24:102][844]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.13-21.50.24:102][844]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.13-21.50.42:796][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.01.13-21.50.42:797][737]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MyCharacter.MyCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.01.13-21.50.42:797][737]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MyCharacter.SKEL_MyCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.01.13-21.50.42:797][737]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MyCharacter.MyCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.01.13-21.50.42:797][737]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MyCharacter.MyCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.01.13-21.50.42:797][737]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MyCharacter.MyCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.01.13-21.50.42:797][737]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MyCharacter.MyCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.01.13-21.50.42:828][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyCharacter" FILE="C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/MyCharacter.uasset" SILENT=true
+[2020.01.13-21.50.42:845][737]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/MyCharacter9121E1C94B401F645C4077A260AA660C.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/MyCharacter.uasset'
+[2020.01.13-21.50.42:995][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.01.13-21.50.43:031][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.01.13-21.50.43:063][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.01.13-21.50.58:221][895]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/MyCharacter.MyCharacter
+[2020.01.13-21.51.03:886][211]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (39.784 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.13-21.51.29:300][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.51.29:433][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyCharacter" FILE="C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/MyCharacter.uasset" SILENT=true
+[2020.01.13-21.51.29:462][931]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/MyCharacter7D20ABD642737059FFD27CA0D708D97B.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/MyCharacter.uasset'
+[2020.01.13-21.51.30:172][973]BlueprintLog: New page: Compile MyCharacter
+[2020.01.13-21.51.30:368][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.01.13-21.51.39:191][212]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.13-21.51.48:459][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.51.48:542][770]BlueprintLog: New page: Compile MyCharacter
+[2020.01.13-21.51.48:766][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.01.13-21.51.49:159][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyCharacter" FILE="C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/MyCharacter.uasset" SILENT=true
+[2020.01.13-21.51.49:183][791]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/MyCharacterB2B5D83B47FBC54AF83E32B2EA6E4551.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/MyCharacter.uasset'
+[2020.01.13-21.51.55:621][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.51.55:710][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyCharacter" FILE="C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/MyCharacter.uasset" SILENT=true
+[2020.01.13-21.51.55:725][159]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/MyCharacter2FE4ED2143C1C23F7CCD068A82BF875A.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/MyCharacter.uasset'
+[2020.01.13-21.52.21:823][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.01.13-21.52.21:823][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.069
+[2020.01.13-21.52.21:825][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Ossum_IDLE] ([1] browsable assets)...
+[2020.01.13-21.52.21:857][299]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Ossum_IDLE.Ossum_IDLE]
+[2020.01.13-21.52.21:857][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Ossum_IDLE]
+[2020.01.13-21.52.21:888][299]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Ossum_IDLE_Auto1C414D8D64CAC4BCCCA368480B8B46EF6.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Ossum_IDLE_Auto1.uasset'
+[2020.01.13-21.52.21:889][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/lambert2] ([1] browsable assets)...
+[2020.01.13-21.52.21:924][299]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/lambert2.lambert2]
+[2020.01.13-21.52.21:924][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/lambert2]
+[2020.01.13-21.52.21:924][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/lambert2" FILE="C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/lambert2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.01.13-21.52.21:949][299]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/lambert2_Auto131193C0044C24CB357B7A9977CED9F72.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/lambert2_Auto1.uasset'
+[2020.01.13-21.52.21:951][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Ossum_IDLE_Skeleton] ([1] browsable assets)...
+[2020.01.13-21.52.21:951][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Ossum_IDLE_Skeleton]
+[2020.01.13-21.52.21:961][299]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Ossum_IDLE_Skeleton_Auto1DD0E3E2446B93B0CBAEDA1A5C00BC743.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Ossum_IDLE_Skeleton_Auto1.uasset'
+[2020.01.13-21.52.21:963][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Ossum_IDLE_PhysicsAsset] ([1] browsable assets)...
+[2020.01.13-21.52.22:027][299]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPersonBP/Ossum_IDLE_PhysicsAsset.Ossum_IDLE_PhysicsAsset]
+[2020.01.13-21.52.22:028][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Ossum_IDLE_PhysicsAsset]
+[2020.01.13-21.52.22:111][299]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Ossum_IDLE_PhysicsAsset_Auto1580725274AA3C753A711EDAE3E188440.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Ossum_IDLE_PhysicsAsset_Auto1.uasset'
+[2020.01.13-21.52.22:113][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Ossum_IDLE_Anim] ([1] browsable assets)...
+[2020.01.13-21.52.22:150][299]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPersonBP/Ossum_IDLE_Anim.Ossum_IDLE_Anim]
+[2020.01.13-21.52.22:150][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Ossum_IDLE_Anim]
+[2020.01.13-21.52.22:172][299]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Ossum_IDLE_Anim_Auto16FD751634EC0460109CBA59F799C1A4F.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Ossum_IDLE_Anim_Auto1.uasset'
+[2020.01.13-21.52.22:172][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Ossum_JUMP] ([1] browsable assets)...
+[2020.01.13-21.52.22:207][299]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Ossum_JUMP.Ossum_JUMP]
+[2020.01.13-21.52.22:207][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Ossum_JUMP]
+[2020.01.13-21.52.22:240][299]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Ossum_JUMP_Auto1243E55354AC441D2BEDAFF9A5685876E.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Ossum_JUMP_Auto1.uasset'
+[2020.01.13-21.52.22:241][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Ossum_JUMP_PhysicsAsset] ([1] browsable assets)...
+[2020.01.13-21.52.22:275][299]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPersonBP/Ossum_JUMP_PhysicsAsset.Ossum_JUMP_PhysicsAsset]
+[2020.01.13-21.52.22:275][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Ossum_JUMP_PhysicsAsset]
+[2020.01.13-21.52.22:313][299]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Ossum_JUMP_PhysicsAsset_Auto1288A397B4BC324831C1839B6A33891CF.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Ossum_JUMP_PhysicsAsset_Auto1.uasset'
+[2020.01.13-21.52.22:314][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Ossum_JUMP_Anim] ([1] browsable assets)...
+[2020.01.13-21.52.22:349][299]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPersonBP/Ossum_JUMP_Anim.Ossum_JUMP_Anim]
+[2020.01.13-21.52.22:349][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Ossum_JUMP_Anim]
+[2020.01.13-21.52.22:374][299]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Ossum_JUMP_Anim_Auto15E95BFB44D5C9ABC9F6FF8A30C5A9B49.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Ossum_JUMP_Anim_Auto1.uasset'
+[2020.01.13-21.52.22:374][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Ossum_RUN] ([1] browsable assets)...
+[2020.01.13-21.52.22:416][299]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Ossum_RUN.Ossum_RUN]
+[2020.01.13-21.52.22:416][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Ossum_RUN]
+[2020.01.13-21.52.22:494][299]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Ossum_RUN_Auto108D058F446DF0F082A3A5D90BA85ACED.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Ossum_RUN_Auto1.uasset'
+[2020.01.13-21.52.22:497][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Ossum_RUN_PhysicsAsset] ([1] browsable assets)...
+[2020.01.13-21.52.22:549][299]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPersonBP/Ossum_RUN_PhysicsAsset.Ossum_RUN_PhysicsAsset]
+[2020.01.13-21.52.22:549][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Ossum_RUN_PhysicsAsset]
+[2020.01.13-21.52.22:637][299]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Ossum_RUN_PhysicsAsset_Auto18BA756984D166E216A2D7E871725F90F.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Ossum_RUN_PhysicsAsset_Auto1.uasset'
+[2020.01.13-21.52.22:640][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Ossum_RUN_Anim] ([1] browsable assets)...
+[2020.01.13-21.52.22:693][299]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPersonBP/Ossum_RUN_Anim.Ossum_RUN_Anim]
+[2020.01.13-21.52.22:694][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Ossum_RUN_Anim]
+[2020.01.13-21.52.22:757][299]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Ossum_RUN_Anim_Auto12DA99A184E05F952540836A8BBCA0620.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Ossum_RUN_Anim_Auto1.uasset'
+[2020.01.13-21.52.22:759][299]LogFileHelpers: Auto-saving content packages took 0.935
+[2020.01.13-21.53.16:216][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.53.16:333][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyCharacter" FILE="C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/MyCharacter.uasset" SILENT=true
+[2020.01.13-21.53.16:358][ 98]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Saved/MyCharacterF64D8CCF4E47D4EFD8B3FA928A42EC45.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/MyCharacter.uasset'
+[2020.01.13-21.53.16:785][123]BlueprintLog: New page: Compile MyCharacter
+[2020.01.13-21.53.16:978][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.01.13-21.54.49:174][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.54.55:754][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.54.58:289][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.55.04:837][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.55.32:119][335]LogEditorTransaction: Undo Set Scale
+[2020.01.13-21.55.32:220][335]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.13-21.55.33:427][335]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.206 s
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: 
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: 
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: Stack: 
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: [Callstack] 0x00007ff863811258 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: [Callstack] 0x00007ff862d3b350 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: [Callstack] 0x00007ff862cf4b5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: [Callstack] 0x00007ff857baefff UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: [Callstack] 0x00007ff857bafbd5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: [Callstack] 0x00007ff857b66ec1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: [Callstack] 0x00007ff86d30149b UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: [Callstack] 0x00007ff86d2d75d9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.13-21.55.33:427][335]LogOutputDevice: Error: [Callstack] 0x00007ff86d3bcc60 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff86d1c5efe UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff86d176444 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff85d781e34 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff85d53d84d UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff85d518389 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff85d8547a3 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff85d83cdf8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff85d7fbe94 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff85d842aea UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff85d4faa78 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff85d527756 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff85d54356d UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff862cf4fed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff862d16366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff862d02f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff862d5ac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff862d9ae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff862d3929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff85d519188 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.13-21.55.33:428][335]LogOutputDevice: Error: [Callstack] 0x00007ff86d1771ea UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff86d1a743e UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff8634d769e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff8634c6e41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff86d141e66 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff86d1a8dcd UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff86d19f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff89e97b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff89e96ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff89e97d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff89e96c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff8aded63ed USER32.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff8aded5de2 USER32.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff89e97e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff7e2115d3e UE4Editor.exe!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff7e212554c UE4Editor.exe!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff7e21255ca UE4Editor.exe!UnknownFunction []
+[2020.01.13-21.55.33:429][335]LogOutputDevice: Error: [Callstack] 0x00007ff7e213316c UE4Editor.exe!UnknownFunction []
+[2020.01.13-21.55.33:430][335]LogOutputDevice: Error: [Callstack] 0x00007ff7e2135b8e UE4Editor.exe!UnknownFunction []
+[2020.01.13-21.55.33:430][335]LogOutputDevice: Error: [Callstack] 0x00007ff8ac967bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.13-21.55.33:430][335]LogOutputDevice: Error: [Callstack] 0x00007ff8ae72ced1 ntdll.dll!UnknownFunction []
+[2020.01.13-21.55.33:430][335]LogOutputDevice: Error: 
+[2020.01.13-21.55.33:434][335]LogStats:                SubmitErrorReport -  0.000 s
